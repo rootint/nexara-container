@@ -4,5 +4,9 @@
 # You can also install packages from a git repository, e.g.:
 # git+https://github.com/runpod/runpod-python.git
 # To learn more, see https://pip.pypa.io/en/stable/reference/requirements-file-format/
-
+# whisperx @ git+https://github.com/rootint/whisperX.git@d3c0de0bcdcd220747a9af88ae460c415c85c065
+whisperx @ git+https://github.com/m-bain/whisperX.git
+accelerate==0.34.2
+pydantic==2.9.2
+mutagen==1.47.0
 runpod==1.7.1
